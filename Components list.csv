@@ -1,0 +1,11 @@
+﻿Name,Quantity,Component
+"UArdiuno",1," Arduino Uno R3"
+"ULCD",1," LCD 16 x 2"
+"UTemperatureSensor",1," Temperature Sensor [TMP36]"
+"MDCMotor",1," DC Motor"
+"PIEZOPiezo",1," Piezo"
+"Rpot1",1,"250 kΩ Potentiometer"
+"UMotorDriver",1," H-bridge Motor Driver"
+"DLEDGreen",1,"Green LED"
+"DLEDRed",1,"Red LED"
+"RResistorLEDR, RResistorLEDG, RResistorLCD",3,"220 Ω Resistor"
